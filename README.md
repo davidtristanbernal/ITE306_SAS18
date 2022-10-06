@@ -1,6 +1,3 @@
-# ITE306_SAS18
-David Tristan M. Bernal
-
 Make sure you intall flask
 
 Steps:
