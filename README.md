@@ -1,4 +1,4 @@
-# ITE308_SAS18
+# ITE306_SAS18
 David Tristan M. Bernal
 
 Make sure you intall flask
